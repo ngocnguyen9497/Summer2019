@@ -5,6 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	abs
+	<<?php  ?>
 </body>
 </html>
